@@ -23,6 +23,30 @@ Communication between the app and the car is established using HTTP requests to
 the ESP32, ensuring seamless and secure control commands.
 
 <h3>
+  SOFTWARE REQUIREMENTS
+</h3>
+
+<p>
+  1.Arduino IDE :
+
+The Arduino IDE (Integrated Development Environment) is a software platform 
+used for writing, compiling, and uploading code to Arduino microcontroller 
+boards. 
+  
+  2.ThingSpeak Application:
+
+  ThingSpeak is a cloud-based IoT analytics platform that enables users to 
+collect, analyze, and visualize sensor data in real time. It supports data logging 
+from devices like Arduino, ESP32, and Raspberry Pi via HTTP or MQTT 
+protocols.
+  
+  3.MIT App :
+
+  Custom-built using MIT App Inventor, it provides user interface functionalities 
+such as start, stop, location update, Google Maps view, and refresh.
+</p>
+
+<h3>
   COMPONENTS
 </h3>
 <p align="center">
